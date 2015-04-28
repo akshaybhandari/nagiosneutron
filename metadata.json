@@ -1,0 +1,14 @@
+{
+  "name": "akshaybhandari-nagiosneutron",
+  "version": "0.1.0",
+  "author": "akshaybhandari",
+  "summary": "OpenStack neutron specific puppet modules for configuring OpenStack monitoring using Nagios",
+  "license": "Apache 2.0",
+  "source": "https://github.com/akshaybhandari/nagiosneutron.git",
+  "issues_url": "https://github.com/akshaybhandari/nagiosneutron/issues",
+  "project_page": "https://github.com/akshaybhandari/nagiosneutron",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
