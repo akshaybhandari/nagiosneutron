@@ -8,7 +8,7 @@
   "issues_url": "https://github.com/akshaybhandari/nagiosneutron/issues",
   "project_page": "https://github.com/akshaybhandari/nagiosneutron",
   "dependencies": [
-    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+    {"version_requirement":">= 1.0.0","name":"puppetlabs/stdlib"}
   ]
 }
 
